@@ -22,7 +22,7 @@ Scripts em Python para ingestão de resultados, análise estatística e geraçã
 > Substitua depois por GIF real da execução (ex.: assets/demo.gif) assim que a primeira versão funcional estiver pronta.
 
 ## Status
-**Em evolução**
+**Em construção (entregas incrementais semanais)**
 
 ## Roadmap curto
 - [ ] Implementar versão mínima funcional (MVP)
