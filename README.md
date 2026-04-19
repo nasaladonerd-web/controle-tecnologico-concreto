@@ -1,5 +1,7 @@
 # Controle Tecnológico do Concreto
 
+> 🚧 **Em construção:** este projeto está sendo desenvolvido aos poucos, com entregas incrementais.
+
 ## Problema
 Consolidar e analisar ensaios de concreto para acompanhar conformidade com critérios técnicos e detectar desvios cedo.
 
