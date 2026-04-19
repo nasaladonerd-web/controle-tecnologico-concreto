@@ -22,7 +22,7 @@ Scripts em Python para ingestão de resultados, análise estatística e geraçã
 > Substitua depois por GIF real da execução (ex.: assets/demo.gif) assim que a primeira versão funcional estiver pronta.
 
 ## Status
-**Em construção (entregas incrementais semanais)**
+**Em evolução**
 
 ## Roadmap curto
 - [ ] Implementar versão mínima funcional (MVP)
@@ -34,3 +34,8 @@ Scripts em Python para ingestão de resultados, análise estatística e geraçã
 ```bash
 # em breve
 ```
+
+## Próxima entrega da semana
+- [ ] Criar estrutura de dados para importar resultados de ensaio
+- [ ] Implementar cálculo inicial de média, desvio padrão e variabilidade
+- [ ] Publicar gráfico simples de acompanhamento no README
